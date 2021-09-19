@@ -17,3 +17,12 @@ a:visited {
 	font-size: 130%;
 	font-weight: bolder;
 }
+
+.useful {
+	color: hsl(204, 86%, 53%);
+	background-color: aquamarine;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 20px;
+	font-size: 70%;
+}
