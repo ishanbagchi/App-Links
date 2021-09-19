@@ -3,7 +3,9 @@ button {
 	margin-right: 5px;
 }
 
-a {
+a,
+a:hover,
+a:visited {
 	color: inherit;
 }
 
