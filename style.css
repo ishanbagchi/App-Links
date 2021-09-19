@@ -1,4 +1,12 @@
 button {
 	margin-bottom: 5px;
-	border-radius: 50px;
+	margin-right: 5px;
+}
+
+a {
+	color: inherit;
+}
+
+.box {
+	margin-top: 20px;
 }
