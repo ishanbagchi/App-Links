@@ -12,3 +12,8 @@ a:visited {
 .box {
 	margin-top: 20px;
 }
+
+.first {
+	font-size: 130%;
+	font-weight: bolder;
+}
